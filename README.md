@@ -32,12 +32,6 @@ I'm documenting my progress as I learn cybersecurity from the ground up through 
 - Active Directory
 - Capture The Flag (CTF)
 
-## 📅 Daily Progress
-
-| Day | Topic | Status |
-|-----|-------|--------|
-| Day 1 | DNS Fundamentals | ✅ |
-
 ## 🌐 Connect With Me
 
 - LinkedIn: https://linkedin.com/in/samir-sahani
