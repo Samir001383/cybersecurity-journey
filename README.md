@@ -41,7 +41,7 @@ I'm documenting my progress as I learn cybersecurity from the ground up through 
 ## 🌐 Connect With Me
 
 - LinkedIn: https://linkedin.com/in/samir-sahani
-- X (Twitter): https://x.com/Samir_Sahani_.
+- X (Twitter): https://x.com/Samir_Sahani_
 
 ---
 
