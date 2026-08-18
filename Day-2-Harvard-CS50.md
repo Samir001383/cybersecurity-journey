@@ -3,7 +3,7 @@
 ## Core Concepts & Usability
 * **The Balancing Act:** Security must always be balanced against usability[cite: 1]. Overly strict security forces users toward unsafe shortcuts.
 * **Single Sign-On (SSO):** Authenticating across services using an existing, trusted identity provider (e.g., Google, Microsoft).
-* **Password Managers:** Tools such as Apple iCloud Keychain, Google Password Manager, and Microsoft Credential Manager that generate and store complex credentials securely[cite: 1].
+* **Password Managers:** Tools such as Apple iCloud Keychain, Google Password Manager, and Microsoft Credential Manager that generate and store complex credentials securely.
 * **Antivirus:** Defensive software that monitors, detects, and removes viruses, worms, and malicious software before they cause damage.
 * **Modern Authentication Shifts:** Phasing out vulnerable biometric inputs (like voice passwords) in favor of cryptographic Passkeys.
 
